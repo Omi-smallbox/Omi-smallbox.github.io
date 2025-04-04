@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/Omi-smallbox/Omi-smallbox.github.io/blob/main/images/output_padded.jpg" class="floatpic">
+<img src="https://omi-smallbox.github.io/images/Hello.jpg" class="floatpic">
 
 Here is **Box.Zhang**.<br>
 
