@@ -28,11 +28,11 @@ title: Feelings
 
 ## CS的世界
 <div class="second">
-<img src="/images/cover.JPG">
-<img src="/images/love.JPG">
+<img src="/images/cover.jpg">
+<img src="/images/love.jpg">
 </div>
-<br>.
-[用代码不断构建一个属于我的世界]:https://leetcode.cn
+<br>
+[用代码不断构建一个属于我的世界]:（https://leetcode.cn）
 
 
 ## Music Taste
