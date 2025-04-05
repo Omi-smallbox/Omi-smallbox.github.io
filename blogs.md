@@ -12,6 +12,7 @@ title: Blogs
 - [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
 - [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
 - [第一次尝试](https://omi-smallbox.github.io/blogs/OurFirst)
+  
 ### 2023
 
 - [21岁，何妨吟啸且徐行](https://caihanlin.com/blogs/21yrs)<br>
@@ -34,6 +35,5 @@ title: Blogs
 - [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
 - [本科博客，笔记，回忆录](https://mieclance.club/)
 
-<br>
 
 
