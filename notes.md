@@ -4,7 +4,8 @@ permalink: /notes/index.html
 title: Notes
 ---
 
- ### 计算机组成原理
+
+### Principles of Computer Organization
 - [计算机组成原理](https://omi-smallbox.github.io/notes/计算机组成原理)
 
 ### Machine Learning
