@@ -24,17 +24,15 @@ title: Feelings
 ## CS的世界
 <div class="third">
 <img src="/images/cover.JPG">
-<img src="/images/love.JPG">
 <img src="/images/cat.JPG">
+<img src="/images/MYCAT.JPG">
 </div>
-<br>
-
-[Build My World Through Coding]:https://leetcode.cn
+<br>I am seeking for my **Ocean** of Artificial Intelligence at the [Build My World Through Coding].
+[Build My World Through Coding]:https://paperswithcode.com/
 
 ## Music Taste
 <div>
-  Troye Sivan 
-<img src="/images/cat.JPG">
+  Troye Sivan （This Time,Running For Love Baby)
 </div>
 <br>
 
