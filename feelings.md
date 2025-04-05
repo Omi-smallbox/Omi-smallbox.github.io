@@ -22,17 +22,12 @@ title: Feelings
 <br>请贪婪而无尽的感受这个世界，不断学习，永远不要停滞.
 
 ## CS的世界
-<div class="third">
-<img src="/images/cover.JPG">
-<img src="/images/cat.JPG">
-<img src="/images/MYCAT.JPG">
-</div>
-<br>I am seeking for my **Ocean** of Artificial Intelligence at the [Build My World Through Coding].
-[Build My World Through Coding]:https://paperswithcode.com/
+ I am seeking for my **Ocean** of Artificial Intelligence.
 
 ## Music Taste
 <div>
   Troye Sivan （This Time,Running For Love Baby)
+  Kisses Down Low
 </div>
 <br>
 
