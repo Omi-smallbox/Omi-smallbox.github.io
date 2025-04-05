@@ -4,12 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://omi-smallbox.github.io/images/Hello.jpg" class="floatpic">
+<img src="https://omi-smallbox.github.io/images/think.jpg" class="floatpic">
 
 Here is **Box.Zhang**.<br>
 I am currently a student majoring in **Intelligence Science and Technology**.<br>
 一個有點犀利的雌性生物，但绝大部分時間比較溫柔
-**<font color="#990000">Nice to Meet You Here😊</font>**
+
+**<font color="#000000">Nice to Meet You Here😊</font>**
 ---
 
 ## Research Interests 
