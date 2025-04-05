@@ -19,24 +19,21 @@ title: Feelings
   
 ##  Ideas & Emotion
 
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
 <br>请贪婪而无尽的感受这个世界，不断学习，永远不要停滞.
 
 ## CS的世界
-<div class="second">
-<img src="/images/cover.jpg">
-<img src="/images/love.jpg">
+<div class="third">
+<img src="/images/cover.JPG">
+<img src="/images/love.JPG">
+<img src="/images/cat.JPG">
 </div>
 <br>
-[用代码不断构建一个属于我的世界]:（https://leetcode.cn）
 
+[Build My World Through Coding]:https://leetcode.cn
 
 ## Music Taste
 <div>
+  Troye Sivan 
 <img src="/images/cat.JPG">
 </div>
 <br>
