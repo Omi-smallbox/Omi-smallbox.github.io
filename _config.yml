@@ -31,10 +31,10 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
+  - title: Notes
+    url: /notes/
+  - title: Academic
+    url: /academic/
   - title: Feelings
     url: /feelings/
   # - title: Startups
