@@ -8,7 +8,8 @@ layout: page
 
 Here is **Box.Zhang**.<br>
 I am currently a student majoring in **Intelligence Science and Technology**.<br>
-一個有點犀利的雌性生物，但绝大部分時間比較溫柔
+
+溫柔且坚定
 
 **<font color="#000000">Nice to Meet You Here😊</font>**
 ---
